@@ -1,2 +1,2 @@
-# project_script
+# std_script
 auto_net
